@@ -1,5 +1,5 @@
 # TicTacToe
-My first project using JavaScript
+A sample project using JavaScript
 
 
 https://amirrezasharifi-8.github.io/TicTacToe/
